@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "./dist/typings",
+    "target": "es5",
+    "importHelpers": true,
+    "strict": true,
+    "noEmitHelpers": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "resolveJsonModule": true,
+    "lib": [
+      "dom",
+      "es2017"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
